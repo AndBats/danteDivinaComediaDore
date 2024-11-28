@@ -1,0 +1,31 @@
+.recorte {
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
+
+.fondoNav {
+    background-color:rgb(0,0,0,50%) ;
+}
+.titulo{
+    font-family: "Grenze Gotisch", serif;
+    font-weight: 800;
+}
+
+.capitular:first-letter
+{
+   float:left;
+   color:white;
+   background:black;
+   font-size:80px;
+   line-height:60px;
+   padding:2px;
+   margin-right: 5px;   
+}
+
+p {
+    font-family: "Grenze Gotisch", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
+  }
+  
